@@ -38,7 +38,8 @@
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <scope>runtime</scope>
-            <version>1.2.17</version>
+            <!-- <version>1.2.17</version> -->
+             <version>1.2.27</version>
         </dependency>
 
         <!--官方介绍使用的 注意官方介绍是使用的依赖中添加的有作用域为test，所以需要注意一下测试类所在的包-->
